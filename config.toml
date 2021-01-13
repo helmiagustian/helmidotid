@@ -1,0 +1,4 @@
+baseURL = "http://helmi.id/"
+languageCode = "en-us"
+title = "helmi dot id"
+theme = "ananke"
